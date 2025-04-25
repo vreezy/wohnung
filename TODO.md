@@ -1,6 +1,10 @@
 # TODO
 
-## Speermüll
+## Aufgaben
+
+- Küche wert ermitteln
+
+## Sperrmüll
 
 - Außen 180 kg Stuhl
 
