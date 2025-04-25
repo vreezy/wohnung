@@ -91,13 +91,13 @@
   - Bürosessel
 - Schreibtisch (verkleinern)
   - Bildschirm 1
-  - Bildschirm 2 (vorher Eltern)
+  - Bildschirm 2 
   - 1 Kiste Perepherie
   - Desktop
   - Laptop
   - Fussding
 - 6 Stühle (mal überlegen, Boden Zerstörer)
-- 3 Magic Boxen (vorher Eltern)
+- 3 Magic Boxen 
 - Großes Bild
 - 2 Rucksäcke
 
@@ -113,14 +113,13 @@
   - Türen
   - 2 Jacken
 - Schuhschrank
-  - 2 Kisten Schuhe
+  - 1 Kiste Schuhe
 - Fahrrad (eventuell vorher)
-- 4 Handwerkkisten (vorher Eltern)
+- 4 Handwerkkisten
 - Ventilator
-- Wasser
+- 4 Wasser kästen
 
 ca. 62 Kisten
-
 
 ## Kisten Unterwegs
 
