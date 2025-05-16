@@ -2,8 +2,6 @@
 
 ## Aufgaben
 
-- Küche wert ermitteln
-
 ## Sperrmüll
 
 - Außen 180 kg Stuhl
@@ -20,8 +18,16 @@
   - 2x2 Schubladen
   - 2 Bambus Kisten
 
-
 ## Reparieren
 
 Laminat
-Steckdose Kellerraum
+Steckdose Abstellkammer
+
+## Neuen Vermieter fragen
+
+- Grundriss (Wohnung planen) (Küche Messen)
+- Küche preis
+- Streichen preis
+- Inet Keller
+- Nebenkostenabrechnung 2024
+- Küche anschlüße Wasser/Strom

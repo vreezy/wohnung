@@ -24,7 +24,7 @@
   - Zeug vom Schrank
   - 1 Winter Box (vorher Eltern)
   - 1 Sommer Box
-  - 2 Erfindergeist (vorher)
+  - [x] 2 Erfindergeist (bei Johannes)
   - Reisekoffer
   - 14 Kisten Kleidung (teilweise vorher?)
   - Ersatz Plümo (vorher Eltern)
@@ -83,6 +83,7 @@
   - 2-3x Kisten Papier
   - 2 Kisten Zusammengebautes Lego
   - Unbebautes Lego
+  - [x] 2 Kisten Bücher (bei Eltern)
 - Tisch
 - Sofa Unterteil
   - 2 Kisten Brettspiele
