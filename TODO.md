@@ -23,11 +23,19 @@
 Laminat
 Steckdose Abstellkammer
 
+## Auszug aufgaben
+
+- Löcher stopfen
+
 ## Neuen Vermieter fragen
 
 - Grundriss (Wohnung planen) (Küche Messen)
 - Küche preis
+- Spülmaschine
+- Amazon Packete
 - Streichen preis
 - Inet Keller
 - Nebenkostenabrechnung 2024
 - Küche anschlüße Wasser/Strom
+- Küchen Breite
+- Fließenspiegel höhe

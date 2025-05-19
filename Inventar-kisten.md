@@ -68,7 +68,6 @@
   - Spülmaschine
   - Obere Platte
   - Wandbefestigung
-  - Spüle
 
 ### Wohnzimmer
 

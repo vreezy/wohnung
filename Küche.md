@@ -1,6 +1,6 @@
-## Küche
+# Küche
 
-- HErsteller Ikea
+- Hersteller: Ikea
 - Eingebaut Dezember 2022
 
 - Ikea: 1851€
@@ -17,6 +17,7 @@
 ebay sagt wertverlust liegt bei (24 + 4 + 4) 32%
 gebraucht wert: 2063€
 
+
 einzel betrachtung:
 
 - Ikea: 1258€
@@ -25,3 +26,7 @@ einzel betrachtung:
 - kleinteile: 136€
 - Regal: 144 €
 
+## Maße
+
+- Höhe: 88,5cm (unterseite platte) (zu niedrieg!! 1-2cm)
+- Breite 3x 60 + 1x45 + 10 = 235cm
