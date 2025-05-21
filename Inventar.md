@@ -1,12 +1,12 @@
-## Inventar
+# Inventar
 
-### Bad
+# Bad
 
 - Waschtrockner
 - 1 Kiste Waschmittel
 - 1 Kisten Hygiene Produkte
 
-### Schlafzimmer
+## Schlafzimmer
 
 - 1 Kiste Lampe
 - Kleiderwagen
@@ -38,7 +38,7 @@
 - 1 Box Übungsmatte
 - Magnettafel (leicht)
 
-### Flur
+## Flur
 
 - Kommode (vererben an Nachmieter)
 - Spiegel (vererben an Nachmieter)
@@ -47,7 +47,7 @@
 - 1 Kiste Sonstiges
 - Kamera
 
-### Küche
+## Küche
   
 - Kochplatte
 - Reiskocher
@@ -69,7 +69,7 @@
   - Obere Platte
   - Wandbefestigung
 
-### Wohnzimmer
+## Wohnzimmer
 
 - Nebentisch (klein)
 - 1 Kiste 2 Lampe
@@ -101,13 +101,13 @@
 - Großes Bild
 - 2 Rucksäcke
 
-### Außen
+## Außen
 
 - Terrassen Tisch (eventuell weggeben weil neu kein Balkon)
 - AußenSessel (der ist wie neu auch drinnen super)
 - Besen
 
-### Abstellkammer
+## Abstellkammer
 
 - Jackenschrank
   - Türen
@@ -121,10 +121,3 @@
 
 ca. 62 Kisten
 
-## Kisten Unterwegs
-
-| Bezeichnung  | Zwischenlager | Ziel |
-|---| --- | --- |
-| Bücher 1/2 | Eltern | Keller oder Wohnzimmer/Wohnwand |
-| Bücher 2/2 | Eltern | Keller oder Wohnzimmer/Wohnwand |
-| AußenZelt | AWO Keller | Keller |
