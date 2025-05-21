@@ -7,6 +7,7 @@
 
 ## Juni
 
+- [ ] Umzug organisieren (firma/Freunde)
 - [ ] Laminat reparieren
 - [ ] Steckdose Abstellkammer
 - [ ] Strom ummelden
@@ -18,13 +19,13 @@
     - 2 Türen
     - 2x2 Schubladen
     - 2 Bambus Kisten
-
-## Juli
-
 - [ ] Sperrmüll
   - 180 kg Stuhl (Terrasse)
   - altes lowboard
   - alter Büro Schrank schlafzimmer
+  
+## Juli
+
 - [ ] 25.7 Kaution und erste Miete zahlen
 - [ ] Bariatic neue Adresse eintragen
 
@@ -35,6 +36,12 @@
 - [ ] Umzug
 - [ ] Weiterleitung bei Post beantragen
 - [ ] Löcher stopfen
+- [ ] Ummelden
+  - [ ] Einwohnermeldeamt (Vermieterbescheinigung)
+  - [ ] Sparkasse
+  - [ ] GEZ
+  - [ ] Versicherungen
+  - [ ] KFZ
 - [ ] 31.8: Ende alter Mietverhältnis, Schlüsselübergabe
 
 ## September
