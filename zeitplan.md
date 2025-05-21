@@ -23,6 +23,7 @@
   - 180 kg Stuhl (Terrasse)
   - altes lowboard
   - alter Büro Schrank schlafzimmer
+  - Küche mitnehmen oder nicht?
   
 ## Juli
 
