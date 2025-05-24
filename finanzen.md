@@ -1,6 +1,6 @@
 # Kaufen
 
-## alte WOhnung
+## alte Wohnung
 
 - Miete: 500
 - CarPort: 40
@@ -27,9 +27,9 @@
 
 ## Erstattung
 
-- [ ] Kaution: (3 Mieten)
-- [ ] Nebenkosten 2024
-- [ ] Nebenkosten 2025
+- [ ] Kaution: 960
+- [ ] Nebenkosten 2024: ?
+- [ ] Nebenkosten 2025: ?
 
 ## Überlegungen neue Wohnung
 
