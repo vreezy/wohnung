@@ -38,3 +38,4 @@
 - Wohnzimmer Büroschrank/Kommode
 - Küche teile die fehlen
 - Regal Keller (mitnehmen oder neu?)
+- Aufstell Kleiderschrank für Saison bedingte Jacken Keller
