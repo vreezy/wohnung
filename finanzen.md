@@ -23,7 +23,7 @@
 - [ ] eventuell teilweise Euro boxen? überlegen
 - [ ] Kaution neue Wohnung : 1620
 - [ ] Farbe + Abdeckung: 200
-- [ ] Umzug wagen: 
+- [ ] Umzug wagen: ~ 2000
 
 ## Erstattung
 
@@ -37,4 +37,4 @@
 - Schreibtischplatte
 - Wohnzimmer Büroschrank/Kommode
 - Küche teile die fehlen
-
+- Regal Keller (mitnehmen oder neu?)

@@ -33,7 +33,7 @@
   - 2 Kisten Ordner (vorher Eltern)
   - 2 Kisten Sonstiges (vorher Eltern)
   - 4 Boxen  (vorher Eltern)
-- 2 Boxen Lego (vorher Kinder)
+- 2 [x] Boxen Lego (bei Eltern, Trockenraum)
 - 1 Box Verpackung (vorher Eltern)
 - 1 Box Übungsmatte
 - Magnettafel (leicht)
@@ -71,18 +71,21 @@
 
 ## Wohnzimmer
 
-- Nebentisch (klein)
-- 1 Kiste 2 Lampe
+- [ ] Nebentisch (klein)
+- [ ] Sessel
+- [ ] 1 Kiste 2 Decken Lampen
 - Wohnwand
   - Wandbefestigung
   - 6 Kästen
   - 10 Türen
+  - 8 Glas Böden
   - 3 Glas Abdeckungen
   - Drucker
   - 2-3x Kisten Papier
   - 2 Kisten Zusammengebautes Lego
+  - [x] 1 Kiste DnD Lego (Erfindergeist)
   - Unbebautes Lego
-  - [x] 2 Kisten Bücher (bei Eltern)
+  - [x] 2 Kisten Bücher (bei Eltern, Bügelzimmer)
 - Tisch
 - Sofa Unterteil
   - 2 Kisten Brettspiele
