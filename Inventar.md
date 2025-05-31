@@ -22,7 +22,7 @@
 - Kleiderschrank
   - 2 Türen
   - Zeug vom Schrank
-  - 1 Winter Box (vorher Eltern)
+  - [x] 1 Winter Box (Eltern)
   - 1 Sommer Box
   - [x] 2 Erfindergeist (bei Johannes)
   - Reisekoffer
@@ -77,18 +77,20 @@
 - Wohnwand
   - Wandbefestigung
   - 6 Kästen
-  - 10 Türen
-  - 8 Glas Böden
+  - 5 Glas Türen
+  - 5 Türen
+  - [ ] 5 Glas Böden
   - 3 Glas Abdeckungen
   - Drucker
   - 2-3x Kisten Papier
-  - 2 Kisten Zusammengebautes Lego
+  - [ ] 1 Kisten Zusammengebautes Lego
   - [x] 1 Kiste DnD Lego (Erfindergeist)
-  - Unbebautes Lego
+  - [ ] Unbebautes Lego und sonstiges (gepackt)
+  - [ ] Unbebautes Lego (gepackt)
   - [x] 2 Kisten Bücher (bei Eltern, Bügelzimmer)
 - Tisch
 - Sofa Unterteil
-  - 2 Kisten Brettspiele
+  - [x] 1 Kisten Brettspiele (Eltern)
   - Sofa Oberteil
   - 4 Sofa Kissen
   - Bürosessel
