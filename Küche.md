@@ -24,7 +24,9 @@ gebraucht wert gesamt: 2063€
 - Kühlschrank: 100€ (geschätzt 2020)
 - Regal: 144 €
 
-## Maße
+## Sonstiges
 
-- Höhe: 88,5cm (unterseite platte)
+- Kann auch einen Herd einbauen (ganz rechts). Unterschrank und Herd auf Kosten neuer Mieter für Trinkgeld
+- Höhe: 90,5cm
 - Breite 3x 60 + 1x45 + 10 = 235cm
+- Ikea verlangt 249€ pro Meter sprich 750€ für Aktuelle Küche gespart.
