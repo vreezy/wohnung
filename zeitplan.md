@@ -29,6 +29,7 @@
 
 - [ ] 25.7 Kaution und erste Miete zahlen
 - [ ] Bariatic neue Adresse eintragen
+- [ ] Weiterleitung bei Post beantragen
 
 ## August
 
@@ -36,13 +37,13 @@
 - [ ] 1.8 - 15.8 Streichen (im notfall morgens)
 - [ ] Umzug
 - [ ] Weiterleitung bei Post beantragen
-- [ ] Löcher stopfen
+- [ ] Alte Wohnung Löcher stopfen
 - [ ] Ummelden
   - [ ] Einwohnermeldeamt (Vermieterbescheinigung)
   - [ ] Sparkasse
   - [ ] GEZ
   - [ ] Versicherungen
   - [ ] KFZ
-- [ ] 31.8: Ende alter Mietverhältnis, Schlüsselübergabe
+- [ ] 31.8: Ende altes Mietverhältnis, Schlüsselübergabe
 
 ## September
