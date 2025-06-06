@@ -12,6 +12,7 @@
 - [ ] Steckdose Abstellkammer
 - [ ] Strom ummelden
 - [ ] Internet ummelden
+  - 7.6.25 Kündigung an dn-connect gesendet.
 - [ ] Verkaufen
   - Terrassen Tisch
   - Ikea Kallax 4x2
