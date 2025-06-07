@@ -26,6 +26,7 @@
     - 2x2 Schubladen
     - 2 Bambus Kisten
 - [ ] Sperrmüll
+  - https://www.schoenmackers.de/rund-um-service/sperrgutanmeldung/
   - 180 kg Stuhl (Terrasse)
   - altes lowboard (Terrasse)
   - alter Büro Schrank schlafzimmer (Vorher etwas besorgen wohin mit dem zeig was drin ist)
