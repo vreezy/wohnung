@@ -33,7 +33,7 @@
   - 2 Kisten Ordner (vorher Eltern)
   - 2 Kisten Sonstiges (vorher Eltern)
   - 4 Boxen  (vorher Eltern)
-- 2 [x] Boxen Lego (bei Eltern, Trockenraum)
+- [x] 2 Boxen Lego Lose (bei Eltern, Trockenraum)
 - 1 Box Verpackung (vorher Eltern)
 - 1 Box Übungsmatte
 - Magnettafel (leicht)
@@ -79,50 +79,47 @@
   - 6 Kästen
   - 5 Glas Türen
   - 5 Türen
-  - [ ] 5 Glas Böden
+  - [x] 5 Glas Böden (Eltern)
   - 3 Glas Abdeckungen
   - Drucker
   - 2-3x Kisten Papier
-  - [ ] 1 Kisten Zusammengebautes Lego
+  - [ ] 1 Kisten Zusammengebautes Lego (gepackt)
   - [x] 1 Kiste DnD Lego (Erfindergeist)
   - [ ] Unbebautes Lego und sonstiges (gepackt)
   - [ ] Unbebautes Lego (gepackt)
   - [x] 2 Kisten Bücher (bei Eltern, Bügelzimmer)
 - Tisch
 - Sofa Unterteil
-  - [x] 1 Kisten Brettspiele (Eltern)
+  - [x] 1 Kisten Brettspiele (Eltern , Bügelzimmer)
   - Sofa Oberteil
   - 4 Sofa Kissen
   - Bürosessel
 - Schreibtisch (verkleinern)
   - Bildschirm 1
-  - Bildschirm 2 
+  - Bildschirm 2
   - 1 Kiste Perepherie
   - Desktop
   - Laptop
   - Fussding
 - 6 Stühle (mal überlegen, Boden Zerstörer)
-- 3 Magic Boxen 
+- 4 Magic Boxen (3 selber)
 - Großes Bild
 - 2 Rucksäcke
 
 ## Außen
 
-- Terrassen Tisch (eventuell weggeben weil neu kein Balkon)
+- Terrassen Tisch (versuchen zu vererben)
 - AußenSessel (der ist wie neu auch drinnen super)
 - Besen
 
 ## Abstellkammer
 
-- Jackenschrank
-  - Türen
+- Jackenschrank (versuch z vererben)
   - 2 Jacken
 - Schuhschrank
   - 1 Kiste Schuhe
-- Fahrrad (eventuell vorher)
-- 4 Handwerkkisten
+- Fahrrad
+- 4 Handwerkkisten (1 malen selber)
 - Ventilator
 - 4 Wasser kästen
-
-ca. 62 Kisten
 

@@ -16,14 +16,24 @@
 - Wasser: 50 <- Eva meinte Sie hat Wasser und Strom gebucht. ist aber nicht üblich in DE
 - Gesamt: 880
 
-## Kosten
+## Kosten PLANUNG
 
-- [ ] alte Wohnung Laminat Reparieren
-- [ ] 80 Kartons
+- alte Wohnung Reparaturen
+  - [ ] Laminat Reparatur 20 Euro
+- ~ 80 Kartons
+  - 10 Kartons Bauhaus 20 Euro
+- Transport Schutz
+  - Folie 3x 5x1,0m ~ 12 Euro
+  - 5 Decken 20 Euro
 - [ ] eventuell teilweise Euro boxen? überlegen
 - [ ] Kaution neue Wohnung : 1620
 - [ ] Farbe + Abdeckung: 200
-- [ ] Umzug wagen: ~ 2000
+- [ ] Umzug Firma: 1200 (100 bereits angezahlt)
+- Küche
+  - Unterschrank 130
+  - E-Herd 400
+  - Neue Platte 100 ?
+- Tisch 150 - 250
 
 ## Erstattung
 
@@ -34,7 +44,7 @@
 ## Überlegungen neue Wohnung
 
 - smarte Heizkörper Thermostate (4x muss zählen)
-- Schreibtischplatte
+
 - Wohnzimmer Büroschrank/Kommode
 - Küche teile die fehlen
 - Regal Keller (mitnehmen oder neu?)
