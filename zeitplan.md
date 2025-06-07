@@ -57,6 +57,7 @@
   - [ ] Sparkasse
   - [ ] GEZ
   - [ ] Versicherungen
+    - [x] Ergo (beantragt zum 1.8.25)
   - [ ] KFZ
 - [ ] 31.8: Ende altes Mietverhältnis, Schlüsselübergabe
 
