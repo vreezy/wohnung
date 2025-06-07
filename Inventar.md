@@ -109,7 +109,7 @@
 ## Außen
 
 - Terrassen Tisch (versuchen zu vererben)
-- AußenSessel (der ist wie neu auch drinnen super)
+
 - Besen
 
 ## Abstellkammer

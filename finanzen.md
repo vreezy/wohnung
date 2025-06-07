@@ -21,15 +21,15 @@
 - alte Wohnung Reparaturen
   - [ ] Laminat Reparatur 20 Euro
 - ~ 80 Kartons
-  - 10 Kartons Bauhaus 20 Euro
+  - [x] 10 Kartons Bauhaus 20 Euro
 - Transport Schutz
-  - Folie 3x 5x1,0m ~ 12 Euro
-  - 5 Decken 20 Euro
+  - [x] Folie 3x 5x1,0m ~ 12 Euro
+  - [x] 5 Decken 20 Euro
 - [ ] eventuell teilweise Euro boxen? überlegen
 - [ ] Kaution neue Wohnung : 1620
 - [ ] Farbe + Abdeckung: 200
 - [ ] Umzug Firma: 1200 (100 bereits angezahlt)
-- Küche
+- Küche wenn mitgenommen wird
   - Unterschrank 130
   - E-Herd 400
   - Neue Platte 100 ?
