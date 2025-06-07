@@ -93,8 +93,8 @@
   - [x] 1 Kisten Brettspiele (Eltern , Bügelzimmer)
   - Sofa Oberteil
   - 4 Sofa Kissen
-  - Bürosessel
 - Schreibtisch (verkleinern)
+  - Bürosessel
   - Bildschirm 1
   - Bildschirm 2
   - 1 Kiste Perepherie
