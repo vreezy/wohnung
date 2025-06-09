@@ -49,16 +49,16 @@
 
 - [ ] 1.8: Mietverhältnis neue Wohnung Start
 - [ ] 1.8 - 15.8 Streichen (im notfall morgens bei Hitze)
-- [ ] 13.8
+- [ ] 13.8 MI
   - [ ] Möbel Abbauen
     - [ ] Kleider Schrank
     - [ ] Lampen abhängen
-- [ ] 14.8
+- [ ] 14.8 DO
   - [ ] Möbel Abbauen
     - [ ] Küche
   - [ ] Kühlschrank ausziehen
   - [ ] Bar Geld holen
-- [ ] 15.8 Umzug (kann nach hinter verlegt werden)
+- [ ] 15.8 FR Umzug (kann nach hinter verlegt werden)
   - [ ] Wecker 6:00 Uhr
   - [ ] Bett abbauen (ggf auf Couch schlafen und tag vorher?)
   - [ ] 9:0= Start Umzug Firma
@@ -66,6 +66,8 @@
   - Bett Auseinander bauen
   - Küche abbauen
   - ALLES Packen
+- [ ] 16.8 SA Aufbau
+- [ ] 17.8 SO Aufbau
 - [ ] Weiterleitung bei Post beantragen
 - [ ] Alte Wohnung Löcher stopfen
 - [ ] Ummelden
