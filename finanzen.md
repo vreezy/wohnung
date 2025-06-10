@@ -15,6 +15,7 @@
 - Strom: 64
 - Wasser: 50 <- Eva meinte Sie hat Wasser und Strom gebucht. ist aber nicht üblich in DE
 - Gesamt: 880
+- Telekom Umzug Gebühr 70
 
 ## Kosten PLANUNG
 

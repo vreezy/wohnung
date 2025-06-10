@@ -67,6 +67,7 @@
   - Küche abbauen
   - ALLES Packen
 - [ ] 16.8 SA Aufbau
+  - [ ] 8-13 Uhr Telekom Techniker
 - [ ] 17.8 SO Aufbau
 - [ ] Weiterleitung bei Post beantragen
 - [ ] Alte Wohnung Löcher stopfen
