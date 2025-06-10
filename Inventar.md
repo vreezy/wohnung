@@ -43,6 +43,7 @@
 - Kommode (vererben an Nachmieter)
 - Spiegel (vererben an Nachmieter)
 - Smartes Brett
+  - FritzBox 7590 RS
 - 1 Kiste Staubsauger
 - 1 Kiste Sonstiges
 - Kamera
