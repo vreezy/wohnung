@@ -15,32 +15,34 @@
 - Strom: 64
 - Wasser: 50 <- Eva meinte Sie hat Wasser und Strom gebucht. ist aber nicht üblich in DE
 - Gesamt: 880
-- Telekom Umzug Gebühr 70
 
 ## Kosten PLANUNG
 
-- alte Wohnung Reparaturen
-  - [ ] Laminat Reparatur 20 Euro
-- ~ 80 Kartons
+- ~ 40 Kartons
   - [x] 10 Kartons Bauhaus 20 Euro
 - Transport Schutz
   - [x] Folie 3x 5x1,0m ~ 12 Euro
   - [x] 5 Decken 20 Euro
-- [ ] eventuell teilweise Euro boxen? überlegen
-- [ ] Kaution neue Wohnung : 1620
-- [ ] Farbe + Abdeckung: 200
+- [ ] Kaution neue Wohnung: 1620
+- [ ] Farbe + Abdeckung: 200-300
 - [ ] Umzug Firma: 1200 (100 bereits angezahlt)
-- Küche wenn mitgenommen wird
+- Küche wird mit genommen
   - Unterschrank 130
-  - E-Herd 400
-  - Neue Platte 100 ?
-- Tisch 150 - 250
+  - E-Herd 400 - max 730 (high Gorenje black set 4)
+    - AirFry wichtig! dann kann ich das einzelne Gerät abgeben
+  - Neue Platte (Ikea ~100-200)
+- Telekom Umzug Gebühr 70
+- Office Schrank (max 300)
+- Keller Kleider Schrank (mitnehmen? 2-3 Jacken ~70 kleppsted)
+- Keller Regal (wandregal Bauhaus ~ 100 eventuell mitnehmen?)
+
 
 ## Erstattung
 
 - [ ] Kaution: 960
-- [ ] Nebenkosten 2024: ?
-- [ ] Nebenkosten 2025: ?
+- [ ] Nebenkosten 2024: ~200?
+- [ ] Nebenkosten 2025: ~200?
+- [ ] Steuer: ?
 
 ## Überlegungen neue Wohnung
 

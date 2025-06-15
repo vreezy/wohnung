@@ -11,39 +11,37 @@
 - [ ] Laminat reparieren
 - [ ] Steckdose Abstellkammer
 - [ ] Strom ummelden
-  - Zählernummer fehlt noch mal nachfragen ende juni
-- [ ] Internet ummelden
+  - Zählernummer neu: 
+  - Marktlokations-ID fehlt. Anrufen bei Vattenfall
+- [x] Internet ummelden
   - [x] 7.6.25 Kündigung an dn-connect gesendet.
-  - [ ] Telekom ummelden
+    - Vermieter hat Kündigungsbestätigung erhalten
+  - [x] Telekom ummelden
 - [ ] Aussortieren was weg kann
   - [ ] Wohnzimmer wand
   - [ ] Office Schrank
   - [ ] Kleider Schrank
   - [ ] Küche
-- [ ] Verkaufen oder mitnehmen
   - Küche
 - [ ] Verkaufen oder Sperrmüll
   - AußenSessel
-  - Terrassen Tisch
-  - Ikea Kallax 4x2
-    - 2 Offen
-    - 2 Türen
-    - 2x2 Schubladen
-    - 2 Bambus Kisten
+  - Flur Spiegel und Schrank
 - [ ] Sperrmüll
   - https://www.schoenmackers.de/rund-um-service/sperrgutanmeldung/
   - 180 kg Stuhl (Terrasse)
   - altes lowboard (Terrasse)
   - alter Büro Schrank schlafzimmer (Vorher etwas besorgen wohin mit dem zeug was drin ist)
-  - Tisch
   - 6x Stühle
+  - Küche Kaffeeecke
 
 ## Juli
 
-- [ ] 20.7 Kaution und erste Miete zahlen
 - [ ] Bariatic neue Adresse eintragen
 - [ ] Weiterleitung bei Post beantragen
-- [ ] Übergabe neue Wohnung
+- [ ] Kaution, Miete und Nebenkosten überweisen
+  - Mietvertrag 5.Die Mietkaution ist vor Übergabe der Mietsache und der Schlüssel durch den Mieter zu hinterlegen.
+- [ ] Übergabe Wohnung
+
 
 ## August
 
@@ -57,7 +55,7 @@
   - [ ] Möbel Abbauen
     - [ ] Küche
   - [ ] Kühlschrank ausziehen
-  - [ ] Bar Geld holen
+  - [ ] Bar Geld holen umzug zu bezahlen
 - [ ] 15.8 FR Umzug (kann nach hinter verlegt werden)
   - [ ] Wecker 6:00 Uhr
   - [ ] Bett abbauen (ggf auf Couch schlafen und tag vorher?)
