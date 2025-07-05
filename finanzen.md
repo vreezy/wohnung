@@ -33,8 +33,11 @@
   - Neue Platte (Ikea ~100-200)
 - Telekom Umzug Gebühr 70
 - Office Schrank (max 300)
-- Keller Kleider Schrank (mitnehmen? 2-3 Jacken ~70 kleppsted)
-- Keller Regal (wandregal Bauhaus ~ 100 eventuell mitnehmen?)
+  - metod 60x60 sieht sehr gut aus var von 180-270 eventuell gebraucht?
+- Keller Kleider Schrank (mitnehmen)
+- Keller Regal (mit nehmen)
+- Gardinen oder ähnliches
+- teppich?
 
 
 ## Erstattung

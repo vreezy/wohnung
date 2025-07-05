@@ -8,7 +8,7 @@
 ## Juni
 
 - [x] Umzug organisieren (Firma)
-- [ ] Laminat reparieren
+- [x] Laminat reparieren
 - [ ] Steckdose Abstellkammer
 - [ ] Strom ummelden
   - Zählernummer neu: 
@@ -17,16 +17,16 @@
   - [x] 7.6.25 Kündigung an dn-connect gesendet.
     - Vermieter hat Kündigungsbestätigung erhalten
   - [x] Telekom ummelden
-- [ ] Aussortieren was weg kann
-  - [ ] Wohnzimmer wand
+- [x] Aussortieren was weg kann
+  - [x] Wohnzimmer wand
   - [ ] Office Schrank
-  - [ ] Kleider Schrank
-  - [ ] Küche
+  - [x] Kleider Schrank
+  - [x] Küche
   - Küche
 - [ ] Verkaufen oder Sperrmüll
   - AußenSessel
-  - Flur Spiegel und Schrank
 - [ ] Sperrmüll
+  - Flur Spiegel und Schrank
   - https://www.schoenmackers.de/rund-um-service/sperrgutanmeldung/
   - 180 kg Stuhl (Terrasse)
   - altes lowboard (Terrasse)
@@ -41,7 +41,6 @@
 - [ ] Kaution, Miete und Nebenkosten überweisen
   - Mietvertrag 5.Die Mietkaution ist vor Übergabe der Mietsache und der Schlüssel durch den Mieter zu hinterlegen.
 - [ ] Übergabe Wohnung
-
 
 ## August
 
