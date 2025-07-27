@@ -23,7 +23,8 @@
 - Transport Schutz
   - [x] Folie 3x 5x1,0m ~ 12 Euro
   - [x] 5 Decken 20 Euro
-- [ ] Kaution neue Wohnung: 1620
+- [x] Kaution neue Wohnung: 1620
+- [x] Erste Miete
 - [ ] Farbe + Abdeckung: 200-300
 - [ ] Umzug Firma: 1200 (100 bereits angezahlt)
 - Küche wird mit genommen
@@ -31,7 +32,7 @@
   - E-Herd 400 - max 730 (high Gorenje black set 4)
     - AirFry wichtig! dann kann ich das einzelne Gerät abgeben
   - Neue Platte (Ikea ~100-200)
-- Telekom Umzug Gebühr 70
+- [ ] Telekom Umzug Gebühr 70
 - Office Schrank (max 300)
   - metod 60x60 sieht sehr gut aus var von 180-270 eventuell gebraucht?
 - Keller Kleider Schrank (mitnehmen)

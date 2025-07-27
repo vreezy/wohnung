@@ -30,3 +30,13 @@ gebraucht wert gesamt: 2063€
 - Höhe: 90,5cm
 - Breite 3x 60 + 1x45 + 10 = 235cm
 - Ikea verlangt 249€ pro Meter sprich 750€ für Aktuelle Küche gespart.
+
+## Neue Wohnung
+
+Aufhängeschiene, verzinkt, 200 cm, 602.056.64 20€ 2x
+Platte max 246 benötige 285, alternative rechts ein hochschrank (500) überlegen
+Herd mit oder ohne ofen überlegen
+Unterschrnak ofen, überlegen
+Dampfschutz -> https://www.amazon.de/Aluminiumband-Metallisches-Temperaturen-Gasbest%C3%A4ndig-Reparaturen/dp/B0C3WD5SKD aluminiumband 9€
+elektrischer wasserhan https://www.amazon.de/gp/product/B0DS2RGF14/ref=ox_sc_act_title_1?smid=A2NRLWRLCHBBQX&psc=1
+Dunstabzug ~90-150 euro

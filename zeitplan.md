@@ -10,42 +10,35 @@
 - [x] Umzug organisieren (Firma)
 - [x] Laminat reparieren
 - [ ] Steckdose Abstellkammer
-- [ ] Strom ummelden
-  - Zählernummer neu: 
+- [x] Strom ummelden
+  - [x] Zählernummer neu: erhalten
   - Marktlokations-ID fehlt. Anrufen bei Vattenfall
 - [x] Internet ummelden
   - [x] 7.6.25 Kündigung an dn-connect gesendet.
     - Vermieter hat Kündigungsbestätigung erhalten
   - [x] Telekom ummelden
 - [x] Aussortieren was weg kann
-  - [x] Wohnzimmer wand
-  - [ ] Office Schrank
-  - [x] Kleider Schrank
-  - [x] Küche
-  - Küche
-- [ ] Verkaufen oder Sperrmüll
-  - AußenSessel
-- [ ] Sperrmüll
-  - Flur Spiegel und Schrank
-  - https://www.schoenmackers.de/rund-um-service/sperrgutanmeldung/
-  - 180 kg Stuhl (Terrasse)
-  - altes lowboard (Terrasse)
-  - alter Büro Schrank schlafzimmer (Vorher etwas besorgen wohin mit dem zeug was drin ist)
-  - 6x Stühle
-  - Küche Kaffeeecke
 
 ## Juli
 
-- [ ] Bariatic neue Adresse eintragen
-- [ ] Weiterleitung bei Post beantragen
-- [ ] Kaution, Miete und Nebenkosten überweisen
+- [x] Kaution, Miete und Nebenkosten überweisen
   - Mietvertrag 5.Die Mietkaution ist vor Übergabe der Mietsache und der Schlüssel durch den Mieter zu hinterlegen.
-- [ ] Übergabe Wohnung
+- [x] Übergabe Wohnung 23.7
 
 ## August
 
 - [ ] 1.8: Mietverhältnis neue Wohnung Start
-- [ ] 1.8 - 15.8 Streichen (im notfall morgens bei Hitze)
+- [x] 1.8 - 15.8 Streichen (im notfall morgens bei Hitze)
+- [ ] Bariatic neue Adresse eintragen
+- [ ] Weiterleitung bei Post beantragen
+- [ ] Sperrmüll 8.8.25
+  - Flur Spiegel und Schrank
+  - https://www.schoenmackers.de/rund-um-service/sperrgutanmeldung/
+  - [ ] 180 kg Stuhl (Terrasse)
+  - [ ] altes lowboard (Terrasse)
+  - [ ] alter Büro Schrank schlafzimmer (Vorher etwas besorgen wohin mit dem zeug was drin ist)
+  - [ ] 6x Stühle
+  - [ ] Küche Kaffeeecke
 - [ ] 13.8 MI
   - [ ] Möbel Abbauen
     - [ ] Kleider Schrank
@@ -58,7 +51,7 @@
 - [ ] 15.8 FR Umzug (kann nach hinter verlegt werden)
   - [ ] Wecker 6:00 Uhr
   - [ ] Bett abbauen (ggf auf Couch schlafen und tag vorher?)
-  - [ ] 9:0= Start Umzug Firma
+  - [ ] 9:00 Start Umzug Firma
   - Schlafzimmerschrank auseinander bauen
   - Bett Auseinander bauen
   - Küche abbauen
