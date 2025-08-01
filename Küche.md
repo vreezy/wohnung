@@ -33,10 +33,22 @@ gebraucht wert gesamt: 2063€
 
 ## Neue Wohnung
 
-Aufhängeschiene, verzinkt, 200 cm, 602.056.64 20€ 2x
-Platte max 246 benötige 285, alternative rechts ein hochschrank (500) überlegen
+392.722.93 METOD Unterschrank+ausziehb. Einrichtg., weiß/Voxtorp Hochglanz/weiß, 20x60 cm - 164€
+192.542.71 METOD HS f Kühl-/od Gefriersch m 2 Türen, weiß/Voxtorp Hochglanz/weiß, 60x60x200 cm - 325€
+103.115.39 LILLVIKEN Siphon, 1 Becken - 15€
+602.056.64 METOD Aufhängeschiene, verzinkt, , 200 cm - 20€
+603.356.51 EKBACKEN Arbeitsplatte, Betonmuster/Laminat, , 246x2.8 cm - 69€ x 2 = 138€
+
+
+## Küche Later 
+
+703.975.06 FÖRBÄTTRA Sockel, Hochglanz weiß, , 220x8 cm - 30€
+705.560.67 METOD Bein, 2 Stück/Paket, 8 cm - 8€
+
+
 Herd mit oder ohne ofen überlegen
 Unterschrnak ofen, überlegen
+
 Dampfschutz -> https://www.amazon.de/Aluminiumband-Metallisches-Temperaturen-Gasbest%C3%A4ndig-Reparaturen/dp/B0C3WD5SKD aluminiumband 9€
 elektrischer wasserhan https://www.amazon.de/gp/product/B0DS2RGF14/ref=ox_sc_act_title_1?smid=A2NRLWRLCHBBQX&psc=1
 Dunstabzug ~90-150 euro
