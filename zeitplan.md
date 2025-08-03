@@ -27,7 +27,7 @@
 
 ## August
 
-- [ ] 1.8: Mietverhältnis neue Wohnung Start
+- [x] 1.8: Mietverhältnis neue Wohnung Start
 - [x] 1.8 - 15.8 Streichen (im notfall morgens bei Hitze)
 - [ ] Bariatic neue Adresse eintragen
 - [ ] Weiterleitung bei Post beantragen

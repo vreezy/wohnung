@@ -11,10 +11,9 @@
 ## neue Wohnung
 
 - Miete: 540
-- Nebenkosten: 230
-- Strom: 64
-- Wasser: 50 <- Eva meinte Sie hat Wasser und Strom gebucht. ist aber nicht üblich in DE
-- Gesamt: 880
+- Nebenkosten: 230 (hausmeister, Reinigung...)
+- Strom: 64 (geht hoch weil warmwasser in bad und küche läuft über strom)
+- Gesamt: 830
 
 ## Kosten PLANUNG
 
@@ -25,14 +24,10 @@
   - [x] 5 Decken 20 Euro
 - [x] Kaution neue Wohnung: 1620
 - [x] Erste Miete
-- [ ] Farbe + Abdeckung: 200-300
+- [x] Farbe + Abdeckung: 200-300
 - [ ] Umzug Firma: 1200 (100 bereits angezahlt)
 - Küche wird mit genommen
-  - Unterschrank 130
-  - E-Herd 400 - max 730 (high Gorenje black set 4)
-    - AirFry wichtig! dann kann ich das einzelne Gerät abgeben
-  - Neue Platte (Ikea ~100-200)
-- [ ] Telekom Umzug Gebühr 70
+- Telekom Umzug Gebühr 70
 - Office Schrank (max 300)
   - metod 60x60 sieht sehr gut aus var von 180-270 eventuell gebraucht?
 - Keller Kleider Schrank (mitnehmen)
@@ -40,19 +35,22 @@
 - Gardinen oder ähnliches
 - teppich?
 
-
 ## Erstattung
 
 - [ ] Kaution: 960
 - [ ] Nebenkosten 2024: ~200?
 - [ ] Nebenkosten 2025: ~200?
-- [ ] Steuer: ?
+- [x] Steuer 24: 800
 
 ## Überlegungen neue Wohnung
 
 - smarte Heizkörper Thermostate (4x muss zählen)
-
 - Wohnzimmer Büroschrank/Kommode
-- Küche teile die fehlen
-- Regal Keller (mitnehmen oder neu?)
-- Aufstell Kleiderschrank für Saison bedingte Jacken Keller
+
+## Ausgaben real
+
+- [x] DoppelMiete 830
+- [ ] Umzug firma 1200
+- [x] Renovierung ~500
+- [x] Küche teil1 800
+- [ ] Telekom Umzug Gebühr 70

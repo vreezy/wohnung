@@ -33,11 +33,12 @@ gebraucht wert gesamt: 2063€
 
 ## Neue Wohnung
 
-392.722.93 METOD Unterschrank+ausziehb. Einrichtg., weiß/Voxtorp Hochglanz/weiß, 20x60 cm - 164€
-192.542.71 METOD HS f Kühl-/od Gefriersch m 2 Türen, weiß/Voxtorp Hochglanz/weiß, 60x60x200 cm - 325€
-103.115.39 LILLVIKEN Siphon, 1 Becken - 15€
-602.056.64 METOD Aufhängeschiene, verzinkt, , 200 cm - 20€
-603.356.51 EKBACKEN Arbeitsplatte, Betonmuster/Laminat, , 246x2.8 cm - 69€ x 2 = 138€
+- [ ] 392.722.93 METOD Unterschrank+ausziehb. Einrichtg., weiß/Voxtorp Hochglanz/weiß, 20x60 cm - 164€
+- [ ] 192.542.71 METOD HS f Kühl-/od Gefriersch m 2 Türen, weiß/Voxtorp Hochglanz/weiß, 60x60x200 cm - 325€
+- [ ] 103.115.39 LILLVIKEN Siphon, 1 Becken - 15€
+- [ ] 602.056.64 METOD Aufhängeschiene, verzinkt, , 200 cm - 20€
+- [ ] 603.356.51 EKBACKEN Arbeitsplatte, Betonmuster/Laminat, , 246x2.8 cm - 69€ x 2 = 138€
+- [ ] Liefergebühr 99€
 
 
 ## Küche Later 
