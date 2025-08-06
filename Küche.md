@@ -44,11 +44,11 @@ gebraucht wert gesamt: 2063€
 
 ### Teil 2
 
-- [ ] 705.560.67 METOD Bein, 2 Stück/Paket, für hochschrank, 8 cm - 8€
-- [ ] Füsse 20cm Schrank
+- [ ] Wasserhahn https://www.amazon.de/dp/B0DS2RGF14 - 66€
+- [ ] 705.560.67 METOD Bein, 2 Stück/Paket, für hochschrank, 8 cm - 4x 8€ - 32€
 - [ ] 602.056.64 METOD Aufhängeschiene, verzinkt, , 200 cm - 20€
-- [ ] 703.975.06 FÖRBÄTTRA Sockel, Hochglanz weiß, , 220x8 cm - 30€
-- [ ] Dunstabzug
+- [ ] 703.975.06 FÖRBÄTTRA Sockel, Hochglanz weiß, , 220x8 cm - 30€ 2x - 60€
+- [ ] Dunstabzug -Beraten lassen
 
 ### Teil 3
 
