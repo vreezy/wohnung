@@ -32,7 +32,6 @@
 
 - [ ] Weiterleitung bei Post beantragen
 - [ ] 7.8 Sperrmüll raus stellen
-- [ ] Sperrmüll 8.8.25
   - Flur Spiegel und Schrank
   - https://www.schoenmackers.de/rund-um-service/sperrgutanmeldung/
   - [ ] 180 kg Stuhl (Terrasse)
@@ -40,13 +39,17 @@
   - [ ] alter Büro Schrank schlafzimmer (Vorher etwas besorgen wohin mit dem zeug was drin ist)
   - [ ] 6x Stühle
   - [ ] Küche Kaffeeecke
-- [ ] 9-11.8
-  - [ ] Boden Chlor putzne
-  - [ ] Küche fehler streichen
+- [ ] 8.8 Sperrmüll
+- [ ] 8.8 Köln Ikea Teil 2
+- [ ] 9-11.8 SA - MO
+  - [ ] Boden Chlor putzen
+  - [ ] Küche fehlerhaftes streichen
   - [ ] Hochschrank auf bauen
   - [ ] 20cm Schrank aufbauen
   - [ ] Lampe aufhängen
-  - [ ] Strom abdeckungen
+  - [ ] Strom Abdeckungen
+  - [ ] Keller Regal
+  - [ ] Putzen
 - [ ] 12.8 DI Jülich
   - [ ] Bürgerbüro anmelden
   - [ ] Offene Werkstatt
@@ -67,9 +70,18 @@
   - Bett Auseinander bauen
   - Küche abbauen
   - ALLES Packen
-- [ ] 16.8 SA Aufbau
+- [ ] 16.8 SA 
   - [ ] 8-13 Uhr Telekom Techniker
-- [ ] 17.8 SO Aufbau
+- [ ] 17.8 Pause
+- [ ] 18.8 Weiter aufbauen
+  - [ ] Bretter Fenster
+  - [ ] Fenster Durchreiche
+  - [ ] Schlafzimmer Laminat flicken
+  - [ ] Wohnzimmer Lampe
+
+ 
+## Sontieges
+
 - [ ] Weiterleitung bei Post beantragen
 - [ ] Parkausweis
 - [ ] Ummelden
@@ -86,7 +98,7 @@
   - [ ] Versicherungen
     - [x] Ergo (beantragt zum 1.8.25)
   - [ ] KFZ
-. [ ] ??.9 Übergabe
+- [ ] ??.9 Übergabe
 - [ ] 31.8: Ende altes Mietverhältnis, Schlüsselübergabe
 
 ## September
