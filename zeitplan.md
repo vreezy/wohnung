@@ -29,8 +29,6 @@
 
 - [x] 1.8: Mietverhältnis neue Wohnung Start
 - [x] 1.8 - 15.8 Streichen (im notfall morgens bei Hitze)
-
-- [ ] Weiterleitung bei Post beantragen
 - [ ] 7.8 Sperrmüll raus stellen
   - Flur Spiegel und Schrank
   - https://www.schoenmackers.de/rund-um-service/sperrgutanmeldung/
@@ -44,12 +42,12 @@
 - [ ] 9-11.8 SA - MO
   - [ ] Boden Chlor putzen
   - [ ] Küche fehlerhaftes streichen
-  - [ ] Hochschrank auf bauen
-  - [ ] 20cm Schrank aufbauen
-  - [ ] Lampe aufhängen
-  - [ ] Strom Abdeckungen
+  - [ ] Küche Hochschrank auf bauen
+  - [ ] Küche 20cm Schrank aufbauen
+  - [ ] Küche Lampe aufhängen
+  - [ ] Küche Strom Abdeckungen
   - [ ] Keller Regal
-  - [ ] Putzen
+  - [ ] Überall Putzen
 - [ ] 12.8 DI Jülich
   - [ ] Bürgerbüro anmelden
   - [ ] Offene Werkstatt
@@ -66,20 +64,20 @@
   - [ ] Wecker 6:00 Uhr
   - [ ] Bett abbauen (ggf auf Couch schlafen und tag vorher?)
   - [ ] 9:00 Start Umzug Firma
-  - Schlafzimmerschrank auseinander bauen
-  - Bett Auseinander bauen
-  - Küche abbauen
+  - [ ] Schlafzimmerschrank auseinander bauen
+  - [ ] Bett Auseinander bauen
+  - [ ] Küche abbauen
+  - [ ] Schreibtisch abbauen
   - ALLES Packen
-- [ ] 16.8 SA 
+- [ ] 16.8 SA Aufbauen
   - [ ] 8-13 Uhr Telekom Techniker
-- [ ] 17.8 Pause
-- [ ] 18.8 Weiter aufbauen
+- [ ] 17.8 SO Pause
+- [ ] 18-22.8 MO Weiter aufbauen
   - [ ] Bretter Fenster
   - [ ] Fenster Durchreiche
   - [ ] Schlafzimmer Laminat flicken
   - [ ] Wohnzimmer Lampe
 
- 
 ## Sontieges
 
 - [ ] Weiterleitung bei Post beantragen
