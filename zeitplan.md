@@ -29,8 +29,9 @@
 
 - [x] 1.8: Mietverhältnis neue Wohnung Start
 - [x] 1.8 - 15.8 Streichen (im notfall morgens bei Hitze)
-- [ ] Bariatic neue Adresse eintragen
+
 - [ ] Weiterleitung bei Post beantragen
+- [ ] 7.8 Sperrmüll raus stellen
 - [ ] Sperrmüll 8.8.25
   - Flur Spiegel und Schrank
   - https://www.schoenmackers.de/rund-um-service/sperrgutanmeldung/
@@ -39,7 +40,17 @@
   - [ ] alter Büro Schrank schlafzimmer (Vorher etwas besorgen wohin mit dem zeug was drin ist)
   - [ ] 6x Stühle
   - [ ] Küche Kaffeeecke
-- [ ] 13.8 MI
+- [ ] 9-11.8
+  - [ ] Boden Chlor putzne
+  - [ ] Küche fehler streichen
+  - [ ] Hochschrank auf bauen
+  - [ ] 20cm Schrank aufbauen
+  - [ ] Lampe aufhängen
+  - [ ] Strom abdeckungen
+- [ ] 12.8 DI Jülich
+  - [ ] Bürgerbüro anmelden
+  - [ ] Offene Werkstatt
+- [ ] 13.8 MI Merz
   - [ ] Möbel Abbauen
     - [ ] Kleider Schrank
     - [ ] Lampen abhängen
@@ -47,7 +58,7 @@
   - [ ] Möbel Abbauen
     - [ ] Küche
   - [ ] Kühlschrank ausziehen
-  - [ ] Bar Geld holen umzug zu bezahlen
+  - [x] Bar Geld holen umzug zu bezahlen
 - [ ] 15.8 FR Umzug (kann nach hinter verlegt werden)
   - [ ] Wecker 6:00 Uhr
   - [ ] Bett abbauen (ggf auf Couch schlafen und tag vorher?)
@@ -60,14 +71,22 @@
   - [ ] 8-13 Uhr Telekom Techniker
 - [ ] 17.8 SO Aufbau
 - [ ] Weiterleitung bei Post beantragen
-- [ ] Alte Wohnung Löcher stopfen
+- [ ] Parkausweis
 - [ ] Ummelden
+  - [ ] Erfindergeist
+    - [ ] Amtsgerich
+    - [ ] Finanzamt
+    - [ ] Sparkasse
+    - [ ] Webseite
+    - [ ] Verträhe
+  - [ ] Bariatic neue Adresse eintragen
   - [ ] Einwohnermeldeamt (Vermieterbescheinigung)
   - [ ] Sparkasse
   - [ ] GEZ
   - [ ] Versicherungen
     - [x] Ergo (beantragt zum 1.8.25)
   - [ ] KFZ
+. [ ] ??.9 Übergabe
 - [ ] 31.8: Ende altes Mietverhältnis, Schlüsselübergabe
 
 ## September

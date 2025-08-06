@@ -33,19 +33,29 @@ gebraucht wert gesamt: 2063€
 
 ## Neue Wohnung
 
-- [ ] 392.722.93 METOD Unterschrank+ausziehb. Einrichtg., weiß/Voxtorp Hochglanz/weiß, 20x60 cm - 164€
-- [ ] 192.542.71 METOD HS f Kühl-/od Gefriersch m 2 Türen, weiß/Voxtorp Hochglanz/weiß, 60x60x200 cm - 325€
-- [ ] 103.115.39 LILLVIKEN Siphon, 1 Becken - 15€
+### Teil 1
+
+- [x] 392.722.93 METOD Unterschrank+ausziehb. Einrichtg., weiß/Voxtorp Hochglanz/weiß, 20x60 cm - 164€
+- [x] 192.542.71 METOD HS f Kühl-/od Gefriersch m 2 Türen, weiß/Voxtorp Hochglanz/weiß, 60x60x200 cm - 325€
+- [x] 103.115.39 LILLVIKEN Siphon, 1 Becken - 15€
+- [x] 602.056.64 METOD Aufhängeschiene, verzinkt, , 200 cm - 20€
+- [x] 603.356.51 EKBACKEN Arbeitsplatte, Betonmuster/Laminat, , 246x2.8 cm - 69€ x 2 = 138€
+- [x] Liefergebühr 99€
+
+### Teil 2
+
+- [ ] 705.560.67 METOD Bein, 2 Stück/Paket, für hochschrank, 8 cm - 8€
+- [ ] Füsse 20cm Schrank
 - [ ] 602.056.64 METOD Aufhängeschiene, verzinkt, , 200 cm - 20€
-- [ ] 603.356.51 EKBACKEN Arbeitsplatte, Betonmuster/Laminat, , 246x2.8 cm - 69€ x 2 = 138€
-- [ ] Liefergebühr 99€
+- [ ] 703.975.06 FÖRBÄTTRA Sockel, Hochglanz weiß, , 220x8 cm - 30€
+- [ ] Dunstabzug
 
+### Teil 3
 
-## Küche Later 
+- [ ] Herd ~700
+- Kühlschrank? ~800
 
-703.975.06 FÖRBÄTTRA Sockel, Hochglanz weiß, , 220x8 cm - 30€
-705.560.67 METOD Bein, 2 Stück/Paket, 8 cm - 8€
-
+## Küche Later
 
 Herd mit oder ohne ofen überlegen
 Unterschrnak ofen, überlegen

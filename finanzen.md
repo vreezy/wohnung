@@ -12,28 +12,8 @@
 
 - Miete: 540
 - Nebenkosten: 230 (hausmeister, Reinigung...)
-- Strom: 64 (geht hoch weil warmwasser in bad und küche läuft über strom)
+- Strom: 64 (geht hoch weil warmwasser in bad und Küche läuft über strom)
 - Gesamt: 830
-
-## Kosten PLANUNG
-
-- ~ 40 Kartons
-  - [x] 10 Kartons Bauhaus 20 Euro
-- Transport Schutz
-  - [x] Folie 3x 5x1,0m ~ 12 Euro
-  - [x] 5 Decken 20 Euro
-- [x] Kaution neue Wohnung: 1620
-- [x] Erste Miete
-- [x] Farbe + Abdeckung: 200-300
-- [ ] Umzug Firma: 1200 (100 bereits angezahlt)
-- Küche wird mit genommen
-- Telekom Umzug Gebühr 70
-- Office Schrank (max 300)
-  - metod 60x60 sieht sehr gut aus var von 180-270 eventuell gebraucht?
-- Keller Kleider Schrank (mitnehmen)
-- Keller Regal (mit nehmen)
-- Gardinen oder ähnliches
-- teppich?
 
 ## Erstattung
 
@@ -46,11 +26,26 @@
 
 - smarte Heizkörper Thermostate (4x muss zählen)
 - Wohnzimmer Büroschrank/Kommode
+- Schlafzimmer Method schrank puztücher
+  - metod 60x60 sieht sehr gut aus var von 180-270 eventuell gebraucht?
+- Gardinen oder ähnliches
+- Teppich auf Laminat!!!
+
 
 ## Ausgaben real
 
 - [x] DoppelMiete 830
-- [ ] Umzug firma 1200
+- [ ] Umzug firma 1200 ( 100 angezahlt)
 - [x] Renovierung ~500
 - [x] Küche teil1 800
+- [ ] Küche teil2 ~ 100
+- [ ] Küche teil3
 - [ ] Telekom Umzug Gebühr 70
+- ~ 40 Kartons
+  - [x] 10 Kartons Bauhaus 20 Euro
+- Transport Schutz
+  - [x] Folie 3x 5x1,0m ~ 12 Euro
+  - [x] 5 Decken 20 Euro
+- [x] Kaution neue Wohnung: 1620
+- [x] Erste Miete
+- [x] Farbe + Abdeckung: 200-300
