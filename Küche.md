@@ -45,21 +45,27 @@ gebraucht wert gesamt: 2063€
 ### Teil 2
 
 - [ ] Wasserhahn https://www.amazon.de/dp/B0DS2RGF14 - 66€
-- [ ] 705.560.67 METOD Bein, 2 Stück/Paket, für hochschrank, 8 cm - 4x 8€ - 32€
+- [ ] 705.560.67 METOD Bein, 2 Stück/Paket, 8 cm - 4x 8€ - 32€
 - [ ] 602.056.64 METOD Aufhängeschiene, verzinkt, , 200 cm - 20€
 - [ ] 703.975.06 FÖRBÄTTRA Sockel, Hochglanz weiß, , 220x8 cm - 30€ 2x - 60€
-- [ ] Dunstabzug -Beraten lassen
+
+- [ ] 403.687.65 MATÄLSKARE Heißluftofen, IKEA 300 Edelstahl - 279€
+- [ ] 104.670.93 MATMÄSSIG Induktionskochfeld, IKEA 300 schwarz, 59 cm - 299€
+- [ ] 102.432.96 NYTTIG Abtrennung für Kochfeld, weiß, 60 cm - 25€
+- [ ] 103.019.60 UTRUSTA Halterung für Backofen, verzinkt - 13€
+- [ ] 702.135.69 METOD Unterschrank für Einbauofen/Spüle, weiß, 60x60x80 cm - 40€
+
+- [ ] 705.906.03 SAMLA Verschlussklips f Box 45/65 l, schwarz, 0,80€ x 10 - 8€
+
+842
 
 ### Teil 3
 
-- [ ] Herd ~700
+- [ ] Dunstabzug -Beraten lassen
+- [ ] Ein hängeschrank
 - Kühlschrank? ~800
 
 ## Küche Later
 
-Herd mit oder ohne ofen überlegen
-Unterschrnak ofen, überlegen
-
 Dampfschutz -> https://www.amazon.de/Aluminiumband-Metallisches-Temperaturen-Gasbest%C3%A4ndig-Reparaturen/dp/B0C3WD5SKD aluminiumband 9€
-elektrischer wasserhan https://www.amazon.de/gp/product/B0DS2RGF14/ref=ox_sc_act_title_1?smid=A2NRLWRLCHBBQX&psc=1
 Dunstabzug ~90-150 euro

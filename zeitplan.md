@@ -29,25 +29,22 @@
 
 - [x] 1.8: Mietverhältnis neue Wohnung Start
 - [x] 1.8 - 15.8 Streichen (im notfall morgens bei Hitze)
-- [ ] 7.8 Sperrmüll raus stellen
-  - Flur Spiegel und Schrank
-  - https://www.schoenmackers.de/rund-um-service/sperrgutanmeldung/
-  - [ ] 180 kg Stuhl (Terrasse)
-  - [ ] altes lowboard (Terrasse)
-  - [ ] alter Büro Schrank schlafzimmer (Vorher etwas besorgen wohin mit dem zeug was drin ist)
-  - [ ] 6x Stühle
-  - [ ] Küche Kaffeeecke
+- [x] 7.8 Sperrmüll raus stellen
 - [ ] 8.8 Sperrmüll
 - [ ] 8.8 Köln Ikea Teil 2
 - [ ] 9-11.8 SA - MO
   - [ ] Boden Chlor putzen
-  - [ ] Küche fehlerhaftes streichen
   - [ ] Küche Hochschrank auf bauen
   - [ ] Küche 20cm Schrank aufbauen
-  - [ ] Küche Lampe aufhängen
-  - [ ] Küche Strom Abdeckungen
-  - [ ] Keller Regal
   - [ ] Überall Putzen
+- [ ] 10.8 Sonntag
+  - [ ] Küche fehlerhaftes streichen
+  - [ ] Küche Strom Abdeckungen
+  - [ ] Küche Boden Putzen
+- [ ] 11.8 MO
+  - [ ] Küche Lampe aufhängen
+  - Küche aufbauen
+  - [ ] Keller Regal
 - [ ] 12.8 DI Jülich
   - [ ] Bürgerbüro anmelden
   - [ ] Offene Werkstatt
