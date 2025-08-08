@@ -31,41 +31,37 @@
 - [x] 1.8 - 15.8 Streichen (im notfall morgens bei Hitze)
 - [x] 7.8 Sperrmüll raus stellen
 - [ ] 8.8 Sperrmüll
-- [ ] 8.8 Köln Ikea Teil 2
+- [x] 8.8 Köln Ikea Teil 2
 - [ ] 9-11.8 SA - MO
   - [ ] Boden Chlor putzen
   - [ ] Küche Hochschrank auf bauen
   - [ ] Küche 20cm Schrank aufbauen
-  - [ ] Überall Putzen
 - [ ] 10.8 Sonntag
   - [ ] Küche fehlerhaftes streichen
   - [ ] Küche Strom Abdeckungen
   - [ ] Küche Boden Putzen
+  - [ ] Überall Putzen
 - [ ] 11.8 MO
   - [ ] Küche Lampe aufhängen
-  - Küche aufbauen
+  - [ ] Küche finalisieren
   - [ ] Keller Regal
 - [ ] 12.8 DI Jülich
   - [ ] Bürgerbüro anmelden
+  - [ ] Wohnung frei räumen für Umzug
   - [ ] Offene Werkstatt
 - [ ] 13.8 MI Merz
   - [ ] Möbel Abbauen
     - [ ] Kleider Schrank
-    - [ ] Lampen abhängen
+    - [ ] Küche
+    - [ ] Schreibtisch
 - [ ] 14.8 DO
   - [ ] Möbel Abbauen
-    - [ ] Küche
-  - [ ] Kühlschrank ausziehen
+    - [ ] Bett
+    - [ ] Kühlschrank ausziehen
   - [x] Bar Geld holen umzug zu bezahlen
 - [ ] 15.8 FR Umzug (kann nach hinter verlegt werden)
-  - [ ] Wecker 6:00 Uhr
-  - [ ] Bett abbauen (ggf auf Couch schlafen und tag vorher?)
+  - [ ] Wecker 7:00 Uhr
   - [ ] 9:00 Start Umzug Firma
-  - [ ] Schlafzimmerschrank auseinander bauen
-  - [ ] Bett Auseinander bauen
-  - [ ] Küche abbauen
-  - [ ] Schreibtisch abbauen
-  - ALLES Packen
 - [ ] 16.8 SA Aufbauen
   - [ ] 8-13 Uhr Telekom Techniker
 - [ ] 17.8 SO Pause
