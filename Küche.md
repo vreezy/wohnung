@@ -57,6 +57,8 @@ gebraucht wert gesamt: 2063€
 
 - [x] 705.906.03 SAMLA Verschlussklips f Box 45/65 l, schwarz, 0,80€ x 10 - 8€
 
+Teil2: 685,98 € (hatte noch 2 Gutscheine)
+
 ### Teil 3
 
 - [ ] Dunstabzug -Beraten lassen
