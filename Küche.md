@@ -44,20 +44,18 @@ gebraucht wert gesamt: 2063€
 
 ### Teil 2
 
-- [ ] Wasserhahn https://www.amazon.de/dp/B0DS2RGF14 - 66€
-- [ ] 705.560.67 METOD Bein, 2 Stück/Paket, 8 cm - 4x 8€ - 32€
-- [ ] 602.056.64 METOD Aufhängeschiene, verzinkt, , 200 cm - 20€
-- [ ] 703.975.06 FÖRBÄTTRA Sockel, Hochglanz weiß, , 220x8 cm - 30€ 2x - 60€
+- [x] Wasserhahn https://www.amazon.de/dp/B0DS2RGF14 - 66€
+- [x] 705.560.67 METOD Bein, 2 Stück/Paket, 8 cm - 4x 8€ - 32€
+- [x] 602.056.64 METOD Aufhängeschiene, verzinkt, , 200 cm - 20€
+- [x] 703.975.06 FÖRBÄTTRA Sockel, Hochglanz weiß, , 220x8 cm - 30€ 2x - 60€
 
-- [ ] 403.687.65 MATÄLSKARE Heißluftofen, IKEA 300 Edelstahl - 279€
-- [ ] 104.670.93 MATMÄSSIG Induktionskochfeld, IKEA 300 schwarz, 59 cm - 299€
-- [ ] 102.432.96 NYTTIG Abtrennung für Kochfeld, weiß, 60 cm - 25€
-- [ ] 103.019.60 UTRUSTA Halterung für Backofen, verzinkt - 13€
-- [ ] 702.135.69 METOD Unterschrank für Einbauofen/Spüle, weiß, 60x60x80 cm - 40€
+- [x] 403.687.65 MATÄLSKARE Heißluftofen, IKEA 300 Edelstahl - 279€
+- [x] 104.670.93 MATMÄSSIG Induktionskochfeld, IKEA 300 schwarz, 59 cm - 299€
+- [x] 102.432.96 NYTTIG Abtrennung für Kochfeld, weiß, 60 cm - 25€
+- [x] 103.019.60 UTRUSTA Halterung für Backofen, verzinkt - 13€
+- [x] 702.135.69 METOD Unterschrank für Einbauofen/Spüle, weiß, 60x60x80 cm - 40€
 
-- [ ] 705.906.03 SAMLA Verschlussklips f Box 45/65 l, schwarz, 0,80€ x 10 - 8€
-
-842
+- [x] 705.906.03 SAMLA Verschlussklips f Box 45/65 l, schwarz, 0,80€ x 10 - 8€
 
 ### Teil 3
 
