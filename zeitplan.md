@@ -79,6 +79,8 @@
 
 ## Sontieges
 
+- [ ] Miete Dauerauftrag einrichten
+- [ ] Alten Dauerauftrag löschen
 - [x] Weiterleitung bei Post beantragen
 - [x] Parkausweis
 - [ ] Ummelden
