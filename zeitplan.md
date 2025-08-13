@@ -30,33 +30,33 @@
 - [x] 1.8: Mietverhältnis neue Wohnung Start
 - [x] 1.8 - 15.8 Streichen (im notfall morgens bei Hitze)
 - [x] 7.8 Sperrmüll raus stellen
-- [ ] 8.8 Sperrmüll
+- [x] 8.8 Sperrmüll
 - [x] 8.8 Köln Ikea Teil 2
-- [ ] 9-11.8 SA - MO
-  - [ ] Boden Chlor putzen
-  - [ ] Küche Hochschrank auf bauen
-  - [ ] Küche 20cm Schrank aufbauen
-- [ ] 10.8 Sonntag
-  - [ ] Küche fehlerhaftes streichen
-  - [ ] Küche Strom Abdeckungen
-  - [ ] Küche Boden Putzen
-  - [ ] Überall Putzen
-- [ ] 11.8 MO
-  - [ ] Küche Lampe aufhängen
-  - [ ] Küche finalisieren
-  - [ ] Keller Regal
-- [ ] 12.8 DI Jülich
-  - [ ] Bürgerbüro anmelden
-  - [ ] Wohnung frei räumen für Umzug
-  - [ ] Offene Werkstatt
+- [x] 9-11.8 SA - MO
+  - [x] Boden Chlor putzen
+  - [x] Küche Hochschrank auf bauen
+  - [x] Küche 20cm Schrank aufbauen
+- [x] 10.8 Sonntag
+  - [x] Küche fehlerhaftes streichen
+  - [x] Küche Strom Abdeckungen
+  - [x] Küche Boden Putzen
+  - [x] Überall Putzen
+- [x] 11.8 MO
+  - [x] Küche Lampe aufhängen
+  - [x] Küche finalisieren
+  - [x] Keller Regal
+- [x] 12.8 DI Jülich
+  - [x] Bürgerbüro anmelden
+  - [x] Wohnung frei räumen für Umzug
+  - [x] Offene Werkstatt
 - [ ] 13.8 MI Merz
   - [ ] Möbel Abbauen
     - [ ] Kleider Schrank
-    - [ ] Küche
+    - [x] Küche
     - [ ] Schreibtisch
 - [ ] 14.8 DO
   - [ ] Möbel Abbauen
-    - [ ] Bett
+    - [x] Bett
     - [ ] Kühlschrank ausziehen
   - [x] Bar Geld holen umzug zu bezahlen
 - [ ] 15.8 FR Umzug (kann nach hinter verlegt werden)
@@ -64,8 +64,14 @@
   - [ ] 9:00 Start Umzug Firma
 - [ ] 16.8 SA Aufbauen
   - [ ] 8-13 Uhr Telekom Techniker
+  - [ ] Waschmaschine
+  - [ ] Bett
+  - [ ] Schrank
+  - [ ] Küche
 - [ ] 17.8 SO Pause
 - [ ] 18-22.8 MO Weiter aufbauen
+  - [ ] Schreibtisch
+  - [ ] Wohnzimmer
   - [ ] Bretter Fenster
   - [ ] Fenster Durchreiche
   - [ ] Schlafzimmer Laminat flicken
@@ -73,23 +79,24 @@
 
 ## Sontieges
 
-- [ ] Weiterleitung bei Post beantragen
-- [ ] Parkausweis
+- [x] Weiterleitung bei Post beantragen
+- [x] Parkausweis
 - [ ] Ummelden
-  - [ ] Erfindergeist
-    - [ ] Amtsgerich
-    - [ ] Finanzamt
-    - [ ] Sparkasse
-    - [ ] Webseite
-    - [ ] Verträhe
   - [ ] Bariatic neue Adresse eintragen
-  - [ ] Einwohnermeldeamt (Vermieterbescheinigung)
-  - [ ] Sparkasse
-  - [ ] GEZ
+    - [x] Profil
+    - [ ] Abo läßt sich nicht ändern, kontakt angeschrieben
+  - [ ] Arbeitgeber
+  - [x] Einwohnermeldeamt (Vermieterbescheinigung)
+  - [x] KFZ
+  - [ ] Finanzamt (Elster?)
+  - [x] Bank
+  - [x] GEZ
   - [ ] Versicherungen
     - [x] Ergo (beantragt zum 1.8.25)
-  - [ ] KFZ
 - [ ] ??.9 Übergabe
 - [ ] 31.8: Ende altes Mietverhältnis, Schlüsselübergabe
+- [ ] Ikea teil 3
+  - [ ] Überlegen Bad Regal
+  - [ ] MeEtod Schrank ergänzung Schlafzimmer?
 
 ## September
