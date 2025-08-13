@@ -95,6 +95,11 @@
   - [x] GEZ
   - [ ] Versicherungen
     - [x] Ergo (beantragt zum 1.8.25)
+  - [x] WebHosting
+  - [x] PayPal
+  - [x] Google
+  - [ ] Microsoft
+  - [ ] Amazon    
 - [ ] ??.9 Übergabe
 - [ ] 31.8: Ende altes Mietverhältnis, Schlüsselübergabe
 - [ ] Ikea teil 3
