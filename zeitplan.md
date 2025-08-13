@@ -99,7 +99,7 @@
   - [x] PayPal
   - [x] Google
   - [ ] Microsoft
-  - [ ] Amazon    
+  - [x] Amazon
 - [ ] ??.9 Übergabe
 - [ ] 31.8: Ende altes Mietverhältnis, Schlüsselübergabe
 - [ ] Ikea teil 3
