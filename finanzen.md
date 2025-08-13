@@ -38,14 +38,17 @@
 - [ ] Umzug firma 1200 ( 100 angezahlt)
 - [x] Renovierung ~500
 - [x] Küche teil1 800
-- [ ] Küche teil2 ~ 100
+- [ ] Küche teil2 
+- [x] Küche teil 2,5 (ersatz füsse) 33€
 - [ ] Küche teil3
 - [ ] Telekom Umzug Gebühr 70
-- ~ 40 Kartons
-  - [x] 10 Kartons Bauhaus 20 Euro
+- [x] 18 Kartons Bauhaus 36 Euro
 - Transport Schutz
   - [x] Folie 3x 5x1,0m ~ 12 Euro
   - [x] 5 Decken 20 Euro
 - [x] Kaution neue Wohnung: 1620
 - [x] Erste Miete
 - [x] Farbe + Abdeckung: 200-300
+- [x] Zeug 300
+- Ummeldung Auto 11,10€
+- Parkausweis (3Jahre) 90€
