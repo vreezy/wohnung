@@ -63,6 +63,7 @@ Teil2: 685,98 € (hatte noch 2 Gutscheine)
 
 - [ ] Dunstabzug -Beraten lassen
 - [ ] Ein hängeschrank
+- [ ] 893.918.25
 
 Metod Hängeschränke optionen
 BxH
