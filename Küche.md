@@ -63,9 +63,22 @@ Teil2: 685,98 € (hatte noch 2 Gutscheine)
 
 - [ ] Dunstabzug -Beraten lassen
 - [ ] Ein hängeschrank
-- Kühlschrank? ~800
 
-## Küche Later
+Metod Hängeschränke optionen
+BxH
+60x80
+80x100
+80x40
 
-Dampfschutz -> https://www.amazon.de/Aluminiumband-Metallisches-Temperaturen-Gasbest%C3%A4ndig-Reparaturen/dp/B0C3WD5SKD aluminiumband 9€
-Dunstabzug ~90-150 euro
+der alte ist 80x60
+
+Aufbau Unten
+
+
+60   60  60  45 25
+Gesamt 145
+
+Oben
+
+60 60 80? 45?
+was ander 45 stelle?
