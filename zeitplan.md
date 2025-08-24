@@ -103,16 +103,21 @@
   - [x] Amazon
 - [x] ??.9 Übergabe
 - [x] 31.8: Ende altes Mietverhältnis, Schlüsselübergabe
-- [ ] Ikea teil 3
+- [x] Ikea teil 3
 
 ## September
 
 - [ ] Bretter Fenster
-- [ ] Fenster Durchreiche
+- [ ] Fenster Durchreiche streichen
 - [ ] Schlafzimmer Laminat flicken
-- smarte Heizkörper Thermostate (4x muss zählen)
-- Gardinen oder ähnliches
-- Teppich auf Laminat!!!
-- TAE Kabel
-- Telefonnummer???
-- Fenster Sichtschutz
+- [ ] smarte Heizkörper Thermostate (4x muss zählen)
+- [x] Gardinen oder ähnliches
+  - [x] Wohnzimmer 1
+  - [ ] Wohnzimmer 2
+- [ ] Teppich auf Laminat!!!
+  - TEUER - waschbar!: https://teppana.de/products/sandra-beige-teppich?variant=44780489998600
+  - https://www.teppichversand24.de/laeufer/farben/laeufer-teppich-bentzon-flachgewebe-anthrazit_242403019_50381/
+  - ikea: https://www.ikea.com/de/de/p/stoense-teppich-kurzflor-elfenbeinweiss-20426808/
+- [x] TAE Kabel
+- [ ] Kaffee Ecke Küche -> https://www.bauhaus.info/regalboeden/regalboden/p/31159665
+- [ ] Fußmatte
