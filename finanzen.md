@@ -28,9 +28,10 @@
 - [x] Umzug firma 1200€ ( 100 angezahlt)
 - [x] Renovierung (TODO)
 - [x] Küche teil1 761€
-- [ ] Küche teil2 685,98€
+- [x] Küche teil2 685,98€
 - [x] Küche teil 2,5 (ersatz füße via Amazon) 33€
-- [ ] Küche teil3 414,92€
+- [x] Küche/Wohnung teil3 414,92€
+- [ ] teil 4
 - [ ] Telekom Umzug Gebühr 70
 - [x] 18 Kartons Bauhaus 36 Euro
 - [x] Folie 3x 5x1,0m ~ 12 Euro
