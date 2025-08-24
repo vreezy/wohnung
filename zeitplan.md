@@ -118,6 +118,7 @@
   - TEUER - waschbar!: https://teppana.de/products/sandra-beige-teppich?variant=44780489998600
   - https://www.teppichversand24.de/laeufer/farben/laeufer-teppich-bentzon-flachgewebe-anthrazit_242403019_50381/
   - ikea: https://www.ikea.com/de/de/p/stoense-teppich-kurzflor-elfenbeinweiss-20426808/
+  - wohnzimmer bürostuhl geeignet: https://www.ikea.com/de/de/p/morum-teppich-flach-gewebt-drinnen-drau-dunkelgrau-30198293/?
 - [x] TAE Kabel
 - [ ] Kaffee Ecke Küche -> https://www.bauhaus.info/regalboeden/regalboden/p/31159665
 - [ ] Fußmatte
