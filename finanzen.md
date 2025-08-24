@@ -17,38 +17,24 @@
 
 ## Erstattung
 
-- [ ] Kaution: 960
+- [x] Kaution: 960 /Bar erhalten)
 - [ ] Nebenkosten 2024: ~200?
 - [ ] Nebenkosten 2025: ~200?
 - [x] Steuer 24: 800
 
-## Überlegungen neue Wohnung
-
-- smarte Heizkörper Thermostate (4x muss zählen)
-- Wohnzimmer Büroschrank/Kommode
-- Schlafzimmer Method schrank puztücher
-  - metod 60x60 sieht sehr gut aus var von 180-270 eventuell gebraucht?
-- Gardinen oder ähnliches
-- Teppich auf Laminat!!!
-
-
 ## Ausgaben real
 
-- [x] DoppelMiete 830
-- [ ] Umzug firma 1200 ( 100 angezahlt)
-- [x] Renovierung ~500
-- [x] Küche teil1 800
-- [ ] Küche teil2 
-- [x] Küche teil 2,5 (ersatz füsse) 33€
-- [ ] Küche teil3
+- [x] DoppelMiete 830€
+- [x] Umzug firma 1200€ ( 100 angezahlt)
+- [x] Renovierung (TODO)
+- [x] Küche teil1 761€
+- [ ] Küche teil2 685,98€
+- [x] Küche teil 2,5 (ersatz füße via Amazon) 33€
+- [ ] Küche teil3 414,92€
 - [ ] Telekom Umzug Gebühr 70
 - [x] 18 Kartons Bauhaus 36 Euro
-- Transport Schutz
-  - [x] Folie 3x 5x1,0m ~ 12 Euro
-  - [x] 5 Decken 20 Euro
+- [x] Folie 3x 5x1,0m ~ 12 Euro
+- [x] 5 Decken 20 Euro
 - [x] Kaution neue Wohnung: 1620
-- [x] Erste Miete
-- [x] Farbe + Abdeckung: 200-300
-- [x] Zeug 300
-- Ummeldung Auto 11,10€
-- Parkausweis (3Jahre) 90€
+- [x] Ummeldung Auto 11,10€
+- [x] Parkausweis (3Jahre) 90€

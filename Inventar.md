@@ -72,26 +72,26 @@
 
 ## Wohnzimmer
 
-- [ ] Nebentisch (klein)
-- [ ] Sessel
-- [ ] 1 Kiste 2 Decken Lampen
+- Nebentisch (klein)
+- Sessel
+- 1 Kiste 2 Decken Lampen
 - Wohnwand
   - Wandbefestigung
   - 6 Kästen
   - 5 Glas Türen
   - 5 Türen
-  - [x] 5 Glas Böden (Eltern)
+  - 5 Glas Böden (Eltern)
   - 3 Glas Abdeckungen
   - Drucker
   - 2-3x Kisten Papier
-  - [ ] 1 Kisten Zusammengebautes Lego (gepackt)
-  - [x] 1 Kiste DnD Lego (Erfindergeist)
-  - [ ] Unbebautes Lego und sonstiges (gepackt)
-  - [ ] Unbebautes Lego (gepackt)
-  - [x] 2 Kisten Bücher (bei Eltern, Bügelzimmer)
+  - 1 Kisten Zusammengebautes Lego (gepackt)
+  - 1 Kiste DnD Lego (Erfindergeist)
+  - Unbebautes Lego und sonstiges (gepackt)
+  - Unbebautes Lego (gepackt)
+  - 2 Kisten Bücher (bei Eltern, Bügelzimmer)
 - Tisch
 - Sofa Unterteil
-  - [x] 1 Kisten Brettspiele (Eltern , Bügelzimmer)
+  - 1 Kisten Brettspiele (Eltern , Bügelzimmer)
   - Sofa Oberteil
   - 4 Sofa Kissen
 - Schreibtisch (verkleinern)

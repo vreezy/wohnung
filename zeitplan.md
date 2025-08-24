@@ -9,7 +9,7 @@
 
 - [x] Umzug organisieren (Firma)
 - [x] Laminat reparieren
-- [ ] Steckdose Abstellkammer
+- [x] Steckdose Abstellkammer
 - [x] Strom ummelden
   - [x] Zählernummer neu: erhalten
   - Marktlokations-ID fehlt. Anrufen bei Vattenfall
@@ -49,61 +49,70 @@
   - [x] Bürgerbüro anmelden
   - [x] Wohnung frei räumen für Umzug
   - [x] Offene Werkstatt
-- [ ] 13.8 MI Merz
-  - [ ] Möbel Abbauen
-    - [ ] Kleider Schrank
+- [x] 13.8 MI Merz
+  - [x] Möbel Abbauen
+    - [x] Kleider Schrank
     - [x] Küche
-    - [ ] Schreibtisch
-- [ ] 14.8 DO
-  - [ ] Möbel Abbauen
+    - [x] Schreibtisch
+- [x] 14.8 DO
+  - [x] Möbel Abbauen
     - [x] Bett
-    - [ ] Kühlschrank ausziehen
+    - [x] Kühlschrank ausziehen
   - [x] Bar Geld holen umzug zu bezahlen
-- [ ] 15.8 FR Umzug (kann nach hinter verlegt werden)
-  - [ ] Wecker 7:00 Uhr
-  - [ ] 9:00 Start Umzug Firma
-- [ ] 16.8 SA Aufbauen
-  - [ ] 8-13 Uhr Telekom Techniker
-  - [ ] Waschmaschine
-  - [ ] Bett
-  - [ ] Schrank
-  - [ ] Küche
-- [ ] 17.8 SO Pause
-- [ ] 18-22.8 MO Weiter aufbauen
-  - [ ] Schreibtisch
-  - [ ] Wohnzimmer
-  - [ ] Bretter Fenster
-  - [ ] Fenster Durchreiche
-  - [ ] Schlafzimmer Laminat flicken
-  - [ ] Wohnzimmer Lampe
+- [x] 15.8 FR Umzug (kann nach hinter verlegt werden)
+  - [x] Wecker 7:00 Uhr
+  - [x] 9:00 Start Umzug Firma
+  - [x] 12:00 Ende
+- [x] 16.8 SA Aufbauen
+  - [x] 8-13 Uhr Telekom Techniker
+  - [x] Waschmaschine
+  - [x] Bett
+  - [x] Schrank
+  - [x] Küche
+- [x] 17.8 SO Pause
+- [x] 18-22.8 MO Weiter aufbauen
+  - [x] Schreibtisch
+  - [x] Wohnzimmer
+  - [x] Wohnzimmer Lampe
 
 ## Sontieges
 
-- [ ] Miete Dauerauftrag einrichten
-- [ ] Alten Dauerauftrag löschen
+- [x] Miete Dauerauftrag einrichten
+- [x] Alten Dauerauftrag löschen
 - [x] Weiterleitung bei Post beantragen
 - [x] Parkausweis
 - [ ] Ummelden
-  - [ ] Bariatic neue Adresse eintragen
+  - [x] Festnetz
+  - [ ] Mobil
+  - [x] Bariatic neue Adresse eintragen
     - [x] Profil
-    - [ ] Abo läßt sich nicht ändern, kontakt angeschrieben
+    - [x] Abo
   - [ ] Arbeitgeber
   - [x] Einwohnermeldeamt (Vermieterbescheinigung)
   - [x] KFZ
-  - [ ] Finanzamt (Elster?)
+  - [ ] Finanzamt (Elster? oder einwohnermeldeamt?)
   - [x] Bank
   - [x] GEZ
   - [ ] Versicherungen
     - [x] Ergo (beantragt zum 1.8.25)
+    - [ ] Krankenkasse
   - [x] WebHosting
   - [x] PayPal
   - [x] Google
   - [ ] Microsoft
   - [x] Amazon
-- [ ] ??.9 Übergabe
-- [ ] 31.8: Ende altes Mietverhältnis, Schlüsselübergabe
+- [x] ??.9 Übergabe
+- [x] 31.8: Ende altes Mietverhältnis, Schlüsselübergabe
 - [ ] Ikea teil 3
-  - [ ] Überlegen Bad Regal
-  - [ ] MeEtod Schrank ergänzung Schlafzimmer?
 
 ## September
+
+- [ ] Bretter Fenster
+- [ ] Fenster Durchreiche
+- [ ] Schlafzimmer Laminat flicken
+- smarte Heizkörper Thermostate (4x muss zählen)
+- Gardinen oder ähnliches
+- Teppich auf Laminat!!!
+- TAE Kabel
+- Telefonnummer???
+- Fenster Sichtschutz

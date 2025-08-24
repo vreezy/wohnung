@@ -42,7 +42,7 @@ gebraucht wert gesamt: 2063€
 - [x] 603.356.51 EKBACKEN Arbeitsplatte, Betonmuster/Laminat, , 246x2.8 cm - 69€ x 2 = 138€
 - [x] Liefergebühr 99€
 
-Teil1 Gesamt: 762€
+Teil1 Gesamt: 761€
 
 ### Teil 2
 
@@ -63,10 +63,7 @@ Teil2 Gesamt: 685,98 € (hatte noch 2 Gutscheine)
 
 ### Teil 3
 
-- [ ] 294.578.38 METOD Wandschrank mit Böden, weiß/Voxtorp Hochglanz/weiß, 60x60 cm 120€
-- [ ] 094.640.00 METOD Wandschrank mit Böden, weiß/Voxtorp Hochglanz/weiß, 40x60 cm 116€
-
-vorhanden: 80x60
+siehe ikea.md
 
 ### Maße
 
