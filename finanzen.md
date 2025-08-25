@@ -22,20 +22,32 @@
 - [ ] Nebenkosten 2025: ~200?
 - [x] Steuer 24: 800
 
+## Baumarkt
+
+- Elektro 55,63
+- Licht
+  - Küche 47,95
+  - Wohnzimmer 29,95
+- Farbe 143,85
+- Farb Utensilien 127,49
+
 ## Ausgaben real
 
+- [x] Baumarkt 404,87€
 - [x] DoppelMiete 830€
 - [x] Umzug firma 1200€ ( 100 angezahlt)
-- [x] Renovierung (TODO)
-- [x] Küche teil1 761€
-- [x] Küche teil2 685,98€
+- [x] Küche teil 1 761€
+- [x] Küche teil 2 685,98€
 - [x] Küche teil 2,5 (ersatz füße via Amazon) 33€
-- [x] Küche/Wohnung teil3 414,92€
+- [x] Küche/Wohnung teil 3 414,92€
 - [ ] teil 4
 - [ ] Telekom Umzug Gebühr 70
 - [x] 18 Kartons Bauhaus 36 Euro
 - [x] Folie 3x 5x1,0m ~ 12 Euro
-- [x] 5 Decken 20 Euro
+- [x] 5 Umzugsdecken 20 Euro
 - [x] Kaution neue Wohnung: 1620
 - [x] Ummeldung Auto 11,10€
 - [x] Parkausweis (3Jahre) 90€
+- [ ] Teppich
+- [ ] Stuhlrollen
+- [ ] Sichtschutz
