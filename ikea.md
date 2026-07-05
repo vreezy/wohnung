@@ -18,16 +18,7 @@
 
 ### Küche
 
-- [x] 294.578.38 METOD Wandschrank mit Böden, weiß/Voxtorp Hochglanz/weiß, 60x60 cm 120€
-  - 802.055.35 R17 F10 Korpus
-  - 403.974.90 R19 F32 Tür
-  - 102.056.14 R23 F06 Boden
-  - 805.248.82 R23 F34 Scharnier
-- [x] 094.640.00 METOD Wandschrank mit Böden, weiß/Voxtorp Hochglanz/weiß, 40x60 cm 116€
-  - 102.055.34 R17 F08 Korpus
-  - 403.974.85 R19 F36 Tür
-  - 402.056.22 R23 F08 Boden
-  - 805.248.82 R23 F34 Scharnier
+
 
 ## Teil 4
 
