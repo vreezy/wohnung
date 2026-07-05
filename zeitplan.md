@@ -1,10 +1,10 @@
 # Juli
 
 - [ ] Umzugs Firma finden
-- [ ] Fuss Leiste Reparieren
-- [ ] Rollanden Reparieren
-- [ ] Strom Kündigen
-- [ ] Festnetz Kündigen
+- [ ] Bei Mutter Fuss Leiste Reparieren
+- [ ] Bei Mutter Rolladen Reparieren
+- [x] Strom Kündigen
+- [x] Festnetz Kündigen
 - [ ] GEZ Kündigen
 
 # August
